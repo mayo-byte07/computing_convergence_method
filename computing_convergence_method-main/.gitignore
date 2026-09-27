@@ -1,6 +1,0 @@
-# since our report is online and I like to keep a local copy
-# I don't want to get version conflicts
-REPORT.md
-
-# vscode annoying files
-.vscode/
