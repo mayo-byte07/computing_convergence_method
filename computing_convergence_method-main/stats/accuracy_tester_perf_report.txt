@@ -1,0 +1,20 @@
+# started on Sat Aug 10 21:06:36 2024
+
+
+ Performance counter stats for '/home/matthew/remote_computing_convergence_method/src/accuracy_tester.out':
+
+              4.13 msec task-clock:u                     #    0.863 CPUs utilized             
+                 0      context-switches:u               #    0.000 /sec                      
+                 0      cpu-migrations:u                 #    0.000 /sec                      
+                55      page-faults:u                    #   13.303 K/sec                     
+         5,698,516      cycles:u                         #    1.378 GHz                       
+         8,970,660      instructions:u                   #    1.57  insn per cycle            
+   <not supported>      branches:u                                                            
+            29,560      branch-misses:u                                                       
+
+       0.004793316 seconds time elapsed
+
+       0.005020000 seconds user
+       0.000000000 seconds sys
+
+
